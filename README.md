@@ -1,3 +1,22 @@
+Parcel оновився до версії 2
+
+Дана збірка містить зміни, потрібні для праці з Parcel 2. Інформація взята з сайту
+(https://parceljs.org/getting-started/migration/)
+
+Для коректної роботи всі <script> повинні бути з type="module".
+
+# В pakage.json вносимо корективи щодо
+
+homepage в 5 місцях
+
+# //
+
+npm i - для інсталяції node_modules
+
+npm update - для оновлення всіх модулів //////////////////////////////////////
+
+/////info form base repositorium/////
+
 # Parcel boilerplate
 
 ## Скрытые файлы
